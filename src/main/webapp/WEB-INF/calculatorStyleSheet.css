@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 14, 2017, 4:12:05 PM
+    Author     : vekivulic
+*/
+
+h1{
+    font-size: 3em;
+}
+input{
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    width: 100px;
+}
+body{
+    background-color: #2d8659;
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+#wrapper{
+    border-radius: 12px 12px;
+    background-color: rgba(242, 242, 242,0.35);
+    height: 100%;
+}
